@@ -7,6 +7,7 @@ git clone https://github.com/NatarajAdithya/shopcart.git
 3. Install NPM packages
 
 npm install
+
 4. npm start 
 View on browser at localhost:3000
 
