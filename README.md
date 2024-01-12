@@ -1,17 +1,18 @@
 Installation Steps:
-1. Clone the repo
+1. Clone the repository
+git clone https://github.com/NatarajAdithya/shopcart.git
 
-git clone https://github.com/Shekhar-Joshi07/abounding-development-2683.git
-2. Install NPM packages
+2. cd shopease
+   
+3. Install NPM packages
 
 npm install
-3. View on browser at localhost:3000
+4. View on browser at localhost:3000
 
 npm start
-💻 Tech Stack
+
 Technologies used in the project:
 
 React Js
 Redux
-Chakra Ui
 JavaScript
